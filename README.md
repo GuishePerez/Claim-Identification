@@ -20,5 +20,5 @@ Seems that, at least for not very large datasets, the ability of extracting good
 
 Maybe a good point for continue the study would be to incorporate additional information to the model, such as entities or part-of-speech units. The addition of this features might mean also the addition of some previous error, but maybe for political claims that talk about famous politicians, other parties, or international companies, would add some additional information for the discriminative analysis.
 
-The analysis done here is very short and naive, a more in depth study of "where are we failing" in the testset predicted data, for sure will show more improve point to focus on.
+The analysis done here is very short and naive, a more in depth study of "where are we failing" in the testset predicted data, for sure will show more improving points to focus on.
   
