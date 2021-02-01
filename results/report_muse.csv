@@ -90,7 +90,7 @@ sentence,claim_ground_truth,claim_prediction
 " Nous parlons d’un prétendu financement illégal d’une boîte B présumée, et nous parlons aussi d’un cas de carte SIM dans l’affaire.",1,1
  Vous devez savoir lire et vous savez que dans ces moments vous êtes au mieux.,0,0
 " J’espère et souhaite que les élections puissent avoir lieu, mais cela devra être dit si ces élections peuvent avoir lieu là-bas à Ordizia.",0,0
- It was also called the head of the nursing homes and small management he has in his file.,1,1
+ It was also called the head of the nursing homes and small management he has in his file.,1,0
 " Pero yo creo que la acción del gobierno, sobretodo en estos últimos meses, ha sido buena para España y para los españoles y las españolas.",0,0
  Por ejemplo el metro de Madrid.,0,0
 " Y lo que hacemos ahí es expresar, prestar asesoramiento también a comunidades de vecinos, porque hay un proceso a través del cual la comunidad de vecinos.",0,0
@@ -125,7 +125,7 @@ sentence,claim_ground_truth,claim_prediction
 " Es decir, estamos dando este paso, estamos tomando esta decisión porque estamos convencidos de ciudadanos de que esto es lo mejor para el constitucionalismo en Cataluña, que tenemos que explorar esta alternativa.",0,0
  España tiene una tasa de desempleo estructural muy por encima de la media comunitaria.,1,1
 " Vamos a ver, yo me reuní con él, con las empresas, la empresa de Nissan la empresa de Renault en Davos.",0,0
- Por lo tanto si mantenemos los mismos euros algo se ha perdido por el camino de los 13 años.,1,1
+ Por lo tanto si mantenemos los mismos euros algo se ha perdido por el camino de los 13 años.,1,0
 " Yesterday we even saw the vice mayor, meeting with traders who are in places that until now were crowded in Madrid of the Austrias in the Plaza Mayor and who are now practically empty.",1,1
 " Si usted cree yo la sensación hace unos días cuando la escuchabamos, que un escrache es comparable con el acoso o el hostigamiento que está viviendo la familia de Pablo Iglesias.",0,0
  We don't all act in this health crisis.,0,0
@@ -280,7 +280,7 @@ sentence,claim_ground_truth,claim_prediction
 " Caraballo told it before the matter, certainly on the weekend.",0,0
  Cela peut se faire en quelques semaines.,0,0
  Hemos trabajado muy duro para poder definir esos protocolos de seguridad y cualquiera de vosotros habéis podido descansar algún día.,0,0
-" Lógicamente, esto no sólo no es la gestión ordinaria de la salud de la sanidad, de las comunidades autónomas y por tanto, sí que sí tiene la habilidad y la obligación de seguir ejerciendo como autoridad sanitaria.",0,1
+" Lógicamente, esto no sólo no es la gestión ordinaria de la salud de la sanidad, de las comunidades autónomas y por tanto, sí que sí tiene la habilidad y la obligación de seguir ejerciendo como autoridad sanitaria.",0,0
  Je sais.,0,0
 " Ce qui est clair, c’est que la ligne rouge est essentiellement que les budgets doivent défendre la classe moyenne.",0,0
  Regardez la première chose pour préciser que le Parti socialiste lui-même n’est pas non plus en faveur de la taxe sur les grandes fortunes.,0,0
@@ -330,7 +330,7 @@ sentence,claim_ground_truth,claim_prediction
  And the unemployment figures are very bad and it has to be said without nuance.,0,0
 " Ce qui, soit dit en passant, j’insiste sur le fait que chaque fois que je parle de cette question est toujours le ministère de la Santé et c’est donc au ministère de la Santé de mettre en place des mesures.",1,1
 " C’est ça, c’est adopté.",0,0
-" What we have to do is whether we want to continue to have a healthy economy that meets the deficit and that can invest in rural, livestock, industry, infrastructure or whether we want a bipartite 3.0 now multiplied by five because now it's ten parties instead of two that again yield economic destruction figures like the ones we already experienced a decade ago.",0,1
+" What we have to do is whether we want to continue to have a healthy economy that meets the deficit and that can invest in rural, livestock, industry, infrastructure or whether we want a bipartite 3.0 now multiplied by five because now it's ten parties instead of two that again yield economic destruction figures like the ones we already experienced a decade ago.",0,0
  The Home Office has denied that this program has been used or that any kind of espionage has been made.,1,1
 " Se llame como se quiera llamar, yo no voy a hacer diferencias en ese sentido.",0,0
 " Nous avons parlé ici d’une quatrième place de pension, il y a eu beaucoup de mobilisations de rue pour les pensions.",0,0
@@ -437,7 +437,7 @@ sentence,claim_ground_truth,claim_prediction
 " Pues mire usted, quiero destacar su vehemencia.",0,0
 " Il demande en référence aux élections que nous puissions avoir le plus proche de lui, qui sont les élections autonomes en Catalogne.",0,0
  Buenos días ministra.,0,0
- La Fiscalía se había pronunciado el cuando el Gobierno nombró a Dolores Delgado como Fiscal General del Estado.,0,1
+ La Fiscalía se había pronunciado el cuando el Gobierno nombró a Dolores Delgado como Fiscal General del Estado.,0,0
 " Ahora vengo de hablar también con los autónomos, no es desde abajo, desde lo principal, donde realmente crecemos hacia arriba.",0,0
  Pour moi Coruña est l’une de ces villes qui touchent mon cœur.,0,0
  Bueno pues para evitar ese titular digamos que se ha hecho mal.,0,0
@@ -646,7 +646,7 @@ sentence,claim_ground_truth,claim_prediction
  Ce serait une énorme épave.,0,0
 " Nous venons également de faire appel à des ressources humaines pour les scientifiques les plus brillants et les plus clairs, il y a toujours beaucoup de gens laissés de côté et il y a beaucoup de travail à faire.",0,0
 " Usted es complicada ahora mismo en España, por eso rebrotes segundos le ha dado.",0,0
- That those two general elections were won because there were many Basque citizens who are not of Podemos.,0,1
+ That those two general elections were won because there were many Basque citizens who are not of Podemos.,0,0
  Quel est l’impact sur le tourisme pandémique?,0,0
 " Although I say again that in this year, with the specific and special circumstances regarding surveillance, obviously, as the Director General of Traffic always likes to refer, the regulations and regulations to ensure road safety must be complied with if it is not complied with and if compliance is not controlled.",0,0
  El origen de la fortuna.,0,0
@@ -663,7 +663,7 @@ sentence,claim_ground_truth,claim_prediction
 " Cómo es posible que a día de hoy no haya habido ningún cargo del Gobierno que haya asumido responsabilidades por esas mascarillas que no llegaron nunca, o que llegaron defectuosas por esos guantes, por esas epis?",1,0
  El ministro de Agricultura dice todo lo contrario.,0,0
  C’est pourquoi tout le monde cette année est des précautions extrêmes.,0,0
-" Basque Country and in the rest of Spain, that's why, because of this damn pandemic and I am concerned when I see the President of the Government who does not go to an official funeral for all of them, for the Basques and the rest of the Spaniards killed by the Kobi 19 who flees Sánchez and that is an insult to the victims.",1,1
+" Basque Country and in the rest of Spain, that's why, because of this damn pandemic and I am concerned when I see the President of the Government who does not go to an official funeral for all of them, for the Basques and the rest of the Spaniards killed by the Kobi 19 who flees Sánchez and that is an insult to the victims.",1,0
  Experts consider it disproportionate.,0,0
 " Which people they have had contact with, these people who test positive and be able to isolate them to prevent the virus from spreading and going, going higher.",0,0
 " Il est vrai qu’en juin, nous avons encore environ 20 p. 100 de déplacement de moins que ceux vérifiés l’année précédente aux mêmes dates.",1,1
@@ -815,7 +815,7 @@ sentence,claim_ground_truth,claim_prediction
 " En plus de l’effondrement macroéconomique, il aurait été un drame pour des millions d’imposteurs à l’époque.",0,0
 " Ils ont également commencé à réduire la santé publique, l’éducation publique, menacé les réformes qui ont ensuite cristallisé les réformes des retraites, les sauvetages bancaires.",1,1
 " That is, we are taking this step, we are making this decision because we are convinced of citizens that this is the best thing for constitutionalism in Catalonia, that we have to explore this alternative.",0,0
-" And as a paradigm of all this, the assumption for the first time in the history of our democracy, of a minimum vital income for the benefit of those most vulnerable groups.",1,1
+" And as a paradigm of all this, the assumption for the first time in the history of our democracy, of a minimum vital income for the benefit of those most vulnerable groups.",1,0
  How will it be financed in this time of crisis with a deficit that can exceed 10 percent?,0,0
  Tu pourrais l’avoir.,0,0
 " Yo creo que tiene mucho que ver con dos cosas uno una cuestión de actitud y dos, una cuestión de responsabilidad.",0,0
@@ -929,7 +929,7 @@ La courte législature est de dépenser l’argent comme si elle venait du ciel 
 " Reyes Maroto ministra de Industria, Comercio y Turismo.",0,0
 " Prevention, reaction, teas, masks have not been done well.",0,0
 " Good night Minister, on behalf of Rocío I would like to know if you could give us more details on what that funding is going to be like that we are preparing for the workers who are from home on electricity, telephone, internet.",0,0
- Le ministre aujourd’hui est lundi deux semaines depuis que le roi Juan Carlos a quitté l’Espagne.,0,0
+ Le ministre aujourd’hui est lundi deux semaines depuis que le roi Juan Carlos a quitté l’Espagne.,0,1
 " There are elections in the United States in early November and the issue is of course a trade issue, but also political on the part of the European Union.",0,0
  I also understand then that you are initiating a review of the hypothetical timetable you had on the table when you took over as fourth vice president to advance it.,0,0
  Our respect also with the words of King Philip.,0,0
@@ -1042,7 +1042,7 @@ La courte législature est de dépenser l’argent comme si elle venait du ciel 
 " Pues la aceituna por la recogida de aceituna, la necesidad de disponer de lugares acoje o acogimiento de albergue en sus localidades donde se produce un gran tránsito de temporeros.",0,0
 " And I want to remember something that's drawer, but it's important to put it on the table.",0,0
 " It is that the whole industry associated so that these electrons are green is an industry that is located in Spain that is in the desire, that has a suitable ecosystem, that is a Silicon Valley associated with this, or the water industry, of water purification, efficiency, of that of desalination, which also has a lot of travel.",0,0
-" Une fois l’état d’alarme terminé, la plupart des pouvoirs tombent aux communautés autonomes.",1,1
+" Une fois l’état d’alarme terminé, la plupart des pouvoirs tombent aux communautés autonomes.",1,0
 " Let's see all that cloak in the first place, of course.",0,0
  Y en este sentido yo creo que es el momento de poner en valor precisamente esta institución.,0,0
 " Tout d’abord, je vous remercie beaucoup pour le travail des fonctionnaires de la Direction générale de la circulation, qui je crois que l’ensemble de l’administration et les fonctionnaires font toujours preuve d’un professionnalisme important et pertinent en ces temps difficiles comme l’a dit le Directeur général de la circulation, parce que encore plus et beaucoup merci aux médias d’être ici une fois de plus , pour avoir participé à cette présentation de cette opération été 2020.",0,0
@@ -1135,7 +1135,7 @@ La courte législature est de dépenser l’argent comme si elle venait du ciel 
 " He has made it clear that there will be tax hikes for example, tax hikes for large corporations.",0,0
  Il a perdu 6 3000 voix et plus se gâter jusqu’à présent que les citoyens.,1,1
  Creo que trata y obtuvo una reunión hasta altas horas de la noche y lo hará en A ustedes.,0,0
-" La vérité est que ce n’est pas vrai et je me réfère à une autre règle qui est une autre recommandation qui est importante pour l’auditeur Borja pour être en mesure de le vérifier, qui est la propre recommandation de la Commission mai, dans lequel quatre recommandations pour l’Espagne ont également été soulignées.",0,1
+" La vérité est que ce n’est pas vrai et je me réfère à une autre règle qui est une autre recommandation qui est importante pour l’auditeur Borja pour être en mesure de le vérifier, qui est la propre recommandation de la Commission mai, dans lequel quatre recommandations pour l’Espagne ont également été soulignées.",0,0
  Alberto es una referencia en gestión y en el programa electoral con el que concurre a las elecciones vuelve a ser un ejemplo de estar cerca de las preocupaciones reales de sus paisanos.,0,0
  Rafael Mayoral Merci de nous avoir reçus ce matin.,0,0
  Et cela explique aussi comment.,0,0
@@ -1164,7 +1164,7 @@ La courte législature est de dépenser l’argent comme si elle venait du ciel 
 " Tremendo fue en marzo, en abril, pero la propia ministra de Trabajo reconoce que lo peor está por llegar y le preocupa el último trimestre del año.",0,0
  Pensáis que se hubieran prohibido los desahucios?,0,0
 " That's why it's going to be a different summer campaign and it's going to be a different summer campaign, because it conditions, because these measures condition our behaviors and in that sense it's also going to condition our travel.",0,0
-" Usted no está de acuerdo en este sentido con el doctor Simón desquites el ministro que le han criticado mucho y ahora es su oportunidad para de alguna manera a aquellos que tanto han cuestionado su gestión, devolvérsela, sinón lo que dijo es que siempre es muy, muy difícil acertar en el momento de tomar la decisión y que en cualquier caso, las medidas que se han tomado en Cataluña en son medidas adecuadas y valientes.",1,1
+" Usted no está de acuerdo en este sentido con el doctor Simón desquites el ministro que le han criticado mucho y ahora es su oportunidad para de alguna manera a aquellos que tanto han cuestionado su gestión, devolvérsela, sinón lo que dijo es que siempre es muy, muy difícil acertar en el momento de tomar la decisión y que en cualquier caso, las medidas que se han tomado en Cataluña en son medidas adecuadas y valientes.",1,0
 " But the important thing is that there the President of the Government was insisting, insisting, insisting, deploying all possible efforts to try to weave that consensus in Europe to convince, to accompany to explain, to ensure that in the end there was this great agreement, this historic agreement.",0,0
 " Well, notice what I'm telling you.",0,0
 " Mais allez, je pense que la relation est positive.",0,0
@@ -1284,7 +1284,7 @@ La courte législature est de dépenser l’argent comme si elle venait du ciel 
  Partager cette opinion?,0,0
 " Si tout est en riant, pourquoi ne pas aller au siège de la souveraineté nationale et l’expliquer?",0,0
 " Je crois que le secret et le mystère de l’opacité qui a englouti cette opération et qui a à voir avec le général, avec, avec, avec, avec une institution agissant sans contrôle, entouré de privilèges et qui n’accepte pas l’examen public, n’est pas le bienvenu.",0,0
-" Si la réforme du travail, qui a facilité l’emploi et donc la plus faible pour les travailleurs, elle reste ou n’a pas à être décidée uniquement et exclusivement par le peuple espagnol par l’intermédiaire de ses représentants élus dans cette Assemblée.",1,1
+" Si la réforme du travail, qui a facilité l’emploi et donc la plus faible pour les travailleurs, elle reste ou n’a pas à être décidée uniquement et exclusivement par le peuple espagnol par l’intermédiaire de ses représentants élus dans cette Assemblée.",1,0
  Thank you Sheba.,0,0
  C’est la clé de l’accord avec les agents sociaux pour en parler.,0,0
  Et cette relation ?,0,0
@@ -1510,7 +1510,7 @@ La courte législature est de dépenser l’argent comme si elle venait du ciel 
  Vamos a hablar de que las cosas importan entre los que llevan al debate Gibraltar y nos quieren retrotraer al debate sobre monarquía y monarquía y los que quieren hablar del soberanismo en pleno siglo XXI que es un concepto absolutamente anacrónico.,0,0
 " The reform of the PP, allow me with absolute respect has been left old, does not meet the needs of the current labour market and here everyone agrees the Bank of Spain.",0,0
 " Come on, I'm talking about my friend Mr. Sanchez who calls me a lot.",0,0
- Hay barrios que tienen más casas de apuestas que parques o que campos de futbito,1,1
+ Hay barrios que tienen más casas de apuestas que parques o que campos de futbito,1,0
  Se le dan las condiciones en las que esa corona se ha desempeñado la corona.,0,0
  Pero desde luego la regulación de de qué va a pasar al inicio del curso y la puesta en marcha de una iniciativa común.,0,0
 " Now, as I say I insist on the negotiation of the General Budgets of the State being sensible being moderate, accepting these postulates of citizens as citizens.",0,0
@@ -1546,7 +1546,7 @@ La courte législature est de dépenser l’argent comme si elle venait du ciel 
 " A lo largo de los cuatro gobiernos del Partido Popular, además de muchas responsabilidades en el entorno privado y académico.",0,0
  Vous pouvez.,0,0
  No se trata de algo opcional.,0,0
- You remember all the barbarities that were said about raising the interprofessional minimum wage that nothing very recently was in just over 700 euros.,0,0
+ You remember all the barbarities that were said about raising the interprofessional minimum wage that nothing very recently was in just over 700 euros.,0,1
  Besides what's called the puppy day.,0,0
 " Eh bien, je pense qu’un accord historique a été conclu pour obtenir l’Union européenne, à un moment où l’Europe a vraiment besoin de l’Europe et où nous devons reconstruire l’Europe de l’Union sur la base de l’impact que le COBIT a eu.",0,0
  That's the position we have.,0,0
@@ -1558,7 +1558,7 @@ La courte législature est de dépenser l’argent comme si elle venait du ciel 
 " Well, Citizens seems to be getting it.",0,0
 " If labour reform, which has made it easier to lay down and therefore poorer for workers, it remains or does not have to be decided solely and exclusively by the Spanish people through their elected representatives in this House.",1,0
 " Sí, sería.",0,0
- We have seen how Italy has taken action against Greece.,1,0
+ We have seen how Italy has taken action against Greece.,1,1
  De lo que más orgulloso estoy del trabajo de estos meses es de haber iniciado una discusión en el Consejo de Ministros para acelerar la implementación de un acuerdo programático y que cubriera a las familias afectadas por lo que ha implicado la dimensión económica y social de la COP 19.,0,0
  Et il ya même des déclarations quand il a demandé la démission d’un de nos amis comme Loyola de Palacio qui repose en paix quand on lui a dit de démissionner pour se battre pour la campagne espagnole.,0,0
  C’est fait numériquement.,0,0
@@ -1844,7 +1844,7 @@ The workforce has increased in these two years,1,1
  Pero cuando él se encuentra inmerso en una conjura no sale a explicar qué es lo que verdaderamente ha pasado.,0,0
  Teresa Ribera vice-president fourth of the Government.,0,0
 " Indicar que también el año pasado y cuarto, al uso de los dispositivos de seguridad en cuanto a las personas fallecidas, en concreto a los colectivos vulnerables, decir que siete ciclistas de los diez fallecidos no utilizaban no usaban casco",1,1
-. And on top of that not conditioned,0,0
+. And on top of that not conditioned,0,1
 " De todos modos, si por ejemplo como quería Quim Torra en algunas poblaciones de la comarca del Segrià era un confinamiento domiciliario.",0,0
 " Si otros se ponen nerviosos o se enfadan porque Ciudadanos entre precisamente como garantía de moderación contra el populismo y contra los privilegios de los separatistas, ya se encuentra en un Doval.",0,0
  El documento tenía 80 puntos.,0,0
@@ -1885,7 +1885,7 @@ The workforce has increased in these two years,1,1
  Atiende a sus preguntas.,0,0
  If there were any pandemics or just to make the whole system work properly.,0,0
 " Y eso significa que puede poner en peligro una herramienta, que son los conciertos educativos, que han funcionado muy bien en los últimos 40 años en nuestro país, que nos ha dotado de un excelente sistema educativo y que además responde al marco constitucional que blinda y establece el derecho a la libertad de educación que significa elegir.",1,0
- Il le fait sans ajouter absolument rien de plus de respect aux procédures judiciaires.,0,1
+ Il le fait sans ajouter absolument rien de plus de respect aux procédures judiciaires.,0,0
 " Yes, well, we especially appreciate you being with us this morning.",0,0
  Bueno primero yo no hablo nunca de tasa Google.,0,0
 " It was already used in the Balearic Islands, which we were able to open on June 15 with Germany",1,1
@@ -1989,7 +1989,7 @@ The workforce has increased in these two years,1,1
  Merci pour ce temps de conversation.,0,0
  Quatrième point est le sujet de la formation.,0,0
 " Hier, par exemple, nous voyons le président du gouvernement rencontrer le Premier ministre italien.",0,0
- Yo creo que no es un buen ejemplo burlar las sentencias del Tribunal Supremo que decían que no se podían poner banderas que no fueran las la bandera española y en este caso la bandera la Comunidad de Madrid.,0,0
+ Yo creo que no es un buen ejemplo burlar las sentencias del Tribunal Supremo que decían que no se podían poner banderas que no fueran las la bandera española y en este caso la bandera la Comunidad de Madrid.,0,1
 " Le président du gouvernement a reconnu que beaucoup de choses avaient été dépensées et que le déficit devra être réduit à l’avenir, que la dette devra être réduite et que les revenus devront être augmentés pour cela.",0,0
  Quelle est l’impression ?,0,0
 " Rincón, en particulier qui loue avant même que nous soyons un parti remanié dans l’acronyme actuel du Parti populaire.",0,0
@@ -2190,7 +2190,7 @@ The workforce has increased in these two years,1,1
 " Porque la educación española necesita inversión, necesita recursos y nosotros concebimos la educación como una inversión a largo plazo.",0,0
  How are you viewing the Executive's efforts?,0,0
 " Remarquez-vous un changement d’attitude ou après cette conversation du président du gouvernement et du secteur, par exemple le PSOE, du gouvernement?",0,0
-" And if I also want to take advantage of, following the statements that I have made of from mayors of the area of A Mariña to recognize the role of the entire municipal world or of the mayors of the councillors in all these months of combat against the Kubik, which has sometimes been a little in the background and has also been a very active and very active , very relevant.",1,0
+" And if I also want to take advantage of, following the statements that I have made of from mayors of the area of A Mariña to recognize the role of the entire municipal world or of the mayors of the councillors in all these months of combat against the Kubik, which has sometimes been a little in the background and has also been a very active and very active , very relevant.",1,1
 " Ce n’est pas un fonds de sauvetage, ce ne sont pas des hommes en noir, ce ne sont pas des conditions unilatérales pour un pays ou un secteur qui ne fonctionne pas.",0,0
 " Y los impuestos nacen de la actividad económica nacen de la creación de empleo nacen del desarrollo económico de una zona y por tanto, la única receta válida en este caso es eliminar burocracia, ayudar a que las empresas sigan adelante y a que esta crisis sanitaria que ha obligado a muchas empresas a cerrar, no constituya también una crisis de empleo y una crisis económica profunda.",0,0
 " The European economy, mainly the economies of the north, are economies with a strong export component",1,1
@@ -2397,7 +2397,7 @@ The workforce has increased in these two years,1,1
  That's what we've set up for next dates.,0,0
  Le troisième point est la liberté individuelle.,0,0
 " Well, let them apply it because they attack the corruption whistleblower.",0,0
- Lo llevamos diciendo semanas anunciando los padres de los niños con capacidades diferentes con algunas discapacidades que no les permitían ya estar integrados en la educación ordinaria.,1,1
+ Lo llevamos diciendo semanas anunciando los padres de los niños con capacidades diferentes con algunas discapacidades que no les permitían ya estar integrados en la educación ordinaria.,1,0
 " Carlos Iturgaiz n’a pas seulement été un juntero, non seulement il a été conseiller, il a non seulement été président du parti le plus influent au niveau national, pas le PP, le plus influent depuis des décennies dans la politique espagnole et européenne.",0,0
  De hecho sus declaraciones han traído causa sin que haya sido solicitada por ninguna de las partes en el procedimiento de Villarejo,1,1
  Portavoz adjunto de Ciudadanos en el Congreso.,0,0
@@ -2433,7 +2433,7 @@ The workforce has increased in these two years,1,1
 " La semaine prochaine, je me rendras aux îles Canaries pour encourager la population à visiter les îles dont elle a tant besoin.",0,0
  The United States has decided to maintain sanctions on Spanish oil and wine.,0,0
 " Citizens' votes are not bought with prebendas with promises or with charges, because they belong to them.",0,0
- I do not think it is a good example to circumvent the supreme court rulings which said that flags other than the Spanish flag could not be put and in this case the flag the Community of Madrid.,0,0
+ I do not think it is a good example to circumvent the supreme court rulings which said that flags other than the Spanish flag could not be put and in this case the flag the Community of Madrid.,0,1
 " Es quienen tienen todo el apoyo del Gobierno central para combatir cualquier rebrote del VIH, cualquier caso aislado de los que vayan registrándose.",0,0
  Comment avez-vous aimé la tournée européenne de Pedro Sánchez ?,0,0
  Mais c’est vraiment dommage.,0,0
@@ -2557,12 +2557,12 @@ The workforce has increased in these two years,1,1
  Mesa que no se debería ni siquiera reunir.,0,0
  Evidentemente eso eliminando los aranceles queda anotado.,0,0
  Ese pacto les ha dado carta de naturaleza.,0,0
- Aquí el precio está limitado sólo en el caso de las mascarillas quirúrgicas de adultos no las infantiles.,1,1
+ Aquí el precio está limitado sólo en el caso de las mascarillas quirúrgicas de adultos no las infantiles.,1,0
 " In personity, because school is irreplaceable and all weaknesses are.",0,0
  What will be the scope of these sanctions that are on the table today at that meeting of European leaders?,0,0
 " Parce que là où nous gérons la coalition du Parti citoyen du peuple, notre modèle de gestion est le modèle de réussite, c’est le modèle du triomphe, c’est le modèle de mettre en avant les vrais problèmes des citoyens dans l’économie dans l’emploi pour l’industrie pour les travailleurs indépendants, etc.",0,0
  Qu’est-ce qui est fondamental?,0,0
- Il n’y a rien non plus en matière économique qui soit détruit par plus de 700 000 chômeurs selon les données de l’actuelle et la loi qui se trouve en Espagne exige la mise en œuvre de réformes économiques.,0,0
+ Il n’y a rien non plus en matière économique qui soit détruit par plus de 700 000 chômeurs selon les données de l’actuelle et la loi qui se trouve en Espagne exige la mise en œuvre de réformes économiques.,0,1
 . Muy buenas,0,0
 " Industry, commerce and tourism Mrs. Maroto quetal very good afternoon.",0,0
 " In order for our self-employed people who depend on the tourism sector, they are not affected in any way even harder either.",0,0
@@ -2741,7 +2741,7 @@ The workforce has increased in these two years,1,1
  We're not arguing whether republic or monarchy.,0,0
 " Bonjour, bonjour.",0,0
 " La alternativa responsable a este gobierno que se está caracterizando por la mentira por el caos, por la improvisación.",0,0
- Y en aquellos casos en que por razón médica no se llega a llevar quien quiere ir más allá habrá que ver la especificidad de las disposiciones que adopten y no las he visto en mi equipo con publicarlas estubieran y naturalmente si se hace obligatorio el uso de mascarilla en otros supuestos.,0,1
+ Y en aquellos casos en que por razón médica no se llega a llevar quien quiere ir más allá habrá que ver la especificidad de las disposiciones que adopten y no las he visto en mi equipo con publicarlas estubieran y naturalmente si se hace obligatorio el uso de mascarilla en otros supuestos.,0,0
 " We are not like this, we respect, we invoke respect for the law and in that Constitution of our 1978 and in that law of the Basque Economic Concert, there is respect for historical rights to the foral rights of these two autonomous communities.",0,0
 " Je ne sais pas ce que vous semblent les déclarations de l’enseignement du maire, parce que ce qui est une insulte, c’est qu’un parti au Conseil des ministres se consacre à attaquer les institutions.",0,0
 " I mean, you must or must not deliver the.",0,0
@@ -2865,10 +2865,10 @@ The workforce has increased in these two years,1,1
 " La tiene Okdiario, la tiene Interviú, la tienen los policías de la trama, la tiene Villarejo y resulta que ahora parece que Villarejo nos lo hemos inventado nosotros verdad?",1,0
 " Comme vous l’avez dit il y a quelques minutes à propos de propos politiques, hier, le Parti populaire avec notre président avec Pablo Casado arrive à la barre, prend de l’élan et se présente aux Espagnols comme je l’ai dit plus tôt comme cette alternative qui peut prendre les rênes du pays dès que les élections se tiennent avec un projet très clair, comme un projet très solide et comme une équipe de gens préparés.",0,0
  Hay países que tienen datos sustancialmente peores que los nuestros de nuestro Sistema Nacional de salud.,0,0
-" Cuanto más se hable de El Rey Emérito, menos se habla de la gestión nefasta en la salud y en lo económico que ambos han protagonizado en nuestro país, desgraciadamente batiendo el récord prácticamente en todo el planeta, tanto en el primer ataque del virus como ahora también en los rebotes.",0,1
+" Cuanto más se hable de El Rey Emérito, menos se habla de la gestión nefasta en la salud y en lo económico que ambos han protagonizado en nuestro país, desgraciadamente batiendo el récord prácticamente en todo el planeta, tanto en el primer ataque del virus como ahora también en los rebotes.",0,0
 " It's also not for one to enter Congress in applause or tunnel in Moncloa applauding him, because look at you, 45000 people have died and that's not to throw the bells on the fly.",0,0
 " Por tanto, no es que estamos, estemos pidiendo y no vemos nada.",0,0
- C’est juste que M. Iglesias appelait à la démission.,0,1
+ C’est juste que M. Iglesias appelait à la démission.,0,0
  C’est pourquoi les budgets sont importants.,0,0
 " C’est la même chose que lorsque vous allez à une banque, vous obtenez aussi certaines conditions.",0,0
 " Dans de nombreuses communautés autonomes, ils ont été très critiques à l’égard de la gestion du gouvernement central lorsqu’il avait le commandement unique, y compris la Catalogne, voyant ce qui s’est passé à Lleida où il y a eu un manque de prévoyance.",0,0
@@ -2881,7 +2881,7 @@ The workforce has increased in these two years,1,1
 " For now, many years ago, political giants that inspire the past, present and future action of many young and not-as-young politicians and politicians as my case.",0,0
  Votre sécurité est notre priorité.,0,0
 " These are the most important budgets of democracy, it is the budgets in which we have an obligation to dialogue and the Government has a responsibility to achieve that consensus.",0,0
-" Se han reunido en abril, en mayo de abril, finales de mayo y también se reunió el día de ayer, donde estuvieron la delegada subdelegado como representante de la Administración General del Estado en la zona, principalmente no afectada, que tiene relación con lo que es la Operación Patrón, expresó.",1,0
+" Se han reunido en abril, en mayo de abril, finales de mayo y también se reunió el día de ayer, donde estuvieron la delegada subdelegado como representante de la Administración General del Estado en la zona, principalmente no afectada, que tiene relación con lo que es la Operación Patrón, expresó.",1,1
 " Et je tiens à dire une chose très clairement, nous parlons de vote utile si je vais parler de vote utile est une expression très bosselée.",0,0
 " This is not politically coloured, it's about defending the savings of the neighbors.",0,0
 " Ese dinero, el ahorro de los vecinos, tiene que ir para las necesidades más básicas, para ayudar a aquellos que lo están pasando realmente mal, para bajar los impuestos.",0,0
@@ -2992,7 +2992,7 @@ The workforce has increased in these two years,1,1
  You were talking about the Master's.,0,0
 " I am delighted to welcome and welcome the President of the Spanish Government, Pedro Sánchez, in the middle of the Swedish summer.",0,0
  Mire usted.,0,0
-" Huit partis politiques ayant une représentation municipale ont signé un document qui a fait dire au ministre des Finances qu’ils sont contre ce décret royal des formations aussi différentes du Parti populaire que le Perrete, comme les Benegas, comme Esquerra Republicana, comme le PNV, comme beaucoup d’autres maires de ces marques qui s’opposent au décret royal.",1,1
+" Huit partis politiques ayant une représentation municipale ont signé un document qui a fait dire au ministre des Finances qu’ils sont contre ce décret royal des formations aussi différentes du Parti populaire que le Perrete, comme les Benegas, comme Esquerra Republicana, comme le PNV, comme beaucoup d’autres maires de ces marques qui s’opposent au décret royal.",1,0
  Núñez Feijóo is perfectly recognizable as a fundamental part of the history and future of the People's Party because it represents everything that our regional presidents represent.,0,0
 " Eso lo dicen todos los líderes europeos, eso lo dice el Banco Central Europeo.",1,1
 " Bien sûr, nous sommes préoccupés et nous devons surveiller les mesures que prennent les communautés autonomes, qui à ce stade sont celles auxquelles il convient de détecter tôt et d’agir lorsque le traçage des contacts est détecté.",0,0
@@ -3037,7 +3037,7 @@ The workforce has increased in these two years,1,1
 " Well, my question is, would you be willing to present yourself as the head of the list in Podemos to take the reins of the party?",0,0
  Reconnaître à nouveau le travail pertinent et important de la Garde civile de la police nationale dans la lutte contre le terrorisme.,0,0
 " Au fait, les déchets à faire.",0,0
-" It is curious he went through his statutes and in his code of ethics of mere imputation to the opening of oral trial, also to demand resignation, but in public statements to members of other parties when a party is imputed.",1,1
+" It is curious he went through his statutes and in his code of ethics of mere imputation to the opening of oral trial, also to demand resignation, but in public statements to members of other parties when a party is imputed.",1,0
  At what point are they?,0,0
 " It is good that the People's Party has always released the message that the reforms are positive, that stability is positive and that it is also positive to go to negotiations with a plan to exit the duties done.",0,0
  Ayer menos Sánchez hace un llamamiento al resto de partidos para que apoyen los presupuestos que ha denominado para la reconstrucción.,0,0
@@ -3058,7 +3058,7 @@ The workforce has increased in these two years,1,1
  C’est la position que nous avons.,0,0
 " Ampliado Libia para garantizar la seguridad ciudadana y proporcionar a las unidades de investigación policial la cobertura necesaria, aumento de los recursos materiales y técnicos necesarios para implementar las actividades de investigación e inteligencia sobre las actividades criminales en el conjunto del territorio comercial.",0,0
 " Je me rappelais l’article 9 des écoles, qui ne dit rien de plus que le métro et demi.",0,0
- We have been saying this for weeks by announcing the parents of children with different abilities with some disabilities that did not allow them to be integrated into ordinary education.,1,1
+ We have been saying this for weeks by announcing the parents of children with different abilities with some disabilities that did not allow them to be integrated into ordinary education.,1,0
 " Il est vrai que même s’il n’est pas imputé, il n’est pas mis en examen.",1,0
 " However, we have seen how Sánchez has commissioned Stefanos to start removing everyone by the CIS by asking the Spaniards about the Republic and the monarchy.",0,0
 " Bueno, como.",0,0
@@ -3069,7 +3069,7 @@ Je ne sais pas.,0,0
  How important can Catalan influence be this time?,0,0
 " Allow me to greet Pablo Montesinos, who is Deputy Secretary of Communication of the People's Party.",0,0
  Why couldn't an agreement be reached?,0,0
- The Health Working Group told us a few minutes ago Daniel Hernández who supports the creation of a strategic reserve of critical medical products.,1,1
+ The Health Working Group told us a few minutes ago Daniel Hernández who supports the creation of a strategic reserve of critical medical products.,1,0
 " With all due respect, it's manual.",0,0
 " Well, who's quiet grants.",0,0
  L’Union européenne ou l’Espagne envisage-t-elles de fermer les frontières avec ses pays ?,0,0
@@ -3454,7 +3454,7 @@ Mais j’insiste sur ce que je ressens et nous le voyons tous.,0,0
  Nous sommes également dans les mécanismes parce que je dis-le’est une approche large.,0,0
 " Esto es algo que ya está en marcha, como una preparación ante posibles rebrotes, como por ejemplo toda la discusión que estamos teniendo sobre cómo abrir y cerrar fronteras, como cómo, cómo prepararnos a aislar aquellos lugares en los que la pandemia golpea de nuevo en estas.",0,0
 " This is bad per se, it is bad and socializes the impact of that loss of value of natural capital, but it is also bad from the point of view of what confidence we generate and who is willing to help us.",0,0
- Tenemos también datos de que hay comunidades autónomas en las que el P.I.B.,0,0
+ Tenemos también datos de que hay comunidades autónomas en las que el P.I.B.,0,1
  The best recipe for children is that they can embrace trees and enjoy nature and the sea.,0,0
  Combien de travail avez-vous ces jours-ci ?,0,0
  It is an interesting debate from a doctrinal point of view and we have read these days highly authorized people talking about it.,0,0
@@ -3569,7 +3569,7 @@ Mais j’insiste sur ce que je ressens et nous le voyons tous.,0,0
  Por qué sigo casado?,0,0
 . But that's what's in the crosshairs of this Socialist Party and this Communist Party called Podemos,0,0
 " Vous ne savez pas quelles sont les grandes entreprises de ce pays sont les grandes puissances économiques, les grandes puissances médiatiques.",0,0
-" Et en ce sens, si vous vous en souvenez dans le décret royal du plan C lui-même, les lois sur la santé ont été modifiées précisément par une série de mesures qui, peut-être techniquement, à quel point l’étude du droit est fastidieuse, peut-être sont-elles passées plus inaperçues, mais qui ont néanmoins une importance énorme et sont déjà prévues dans cette loi sur les décrets royaux.",0,1
+" Et en ce sens, si vous vous en souvenez dans le décret royal du plan C lui-même, les lois sur la santé ont été modifiées précisément par une série de mesures qui, peut-être techniquement, à quel point l’étude du droit est fastidieuse, peut-être sont-elles passées plus inaperçues, mais qui ont néanmoins une importance énorme et sont déjà prévues dans cette loi sur les décrets royaux.",0,0
  The virus is there.,0,0
  Personne n’a expliqué pourquoi il a pris sa retraite.,0,0
  Mrs. Pastor good morning.,0,0
@@ -3650,7 +3650,7 @@ Mais j’insiste sur ce que je ressens et nous le voyons tous.,0,0
  Ils sont restés et j’espère que nous pourrons parvenir dans les semaines à venir et dans les prochains mois à une solution négociée au bénéfice de tous.,0,0
  Tenemos que decir que el acuerdo logrado por el Consejo Europeo es bueno para España.,0,0
  C'est compliqué.,0,0
-" Nunca se ha reunido ningún presidente del Gobierno, más de lo que yo lo he hecho en un período tan corto de tiempo.",1,0
+" Nunca se ha reunido ningún presidente del Gobierno, más de lo que yo lo he hecho en un período tan corto de tiempo.",1,1
 " Y mientras sigamos por ese camino y sigamos siendo útiles a los españoles y a las españolas, pues consideraremos ese gobierno fuerte y sostenible y sostenido como está ahora.",0,0
 " Vale para Holanda, Dinamarca o Austria.",0,0
 " And if they occur, obviously the corresponding quarantine can be maintained.",0,0
@@ -3696,7 +3696,7 @@ Mais j’insiste sur ce que je ressens et nous le voyons tous.,0,0
 " We have developed the campaign operation operation Summer, like all campaigns and I know it will have its positive and negative reviews.",0,0
  Entonces me ha confesado que sale todas las mañanas a correr una labradora negra por el monte.,0,0
 " Italia, por ejemplo está todavía algo temerosa respecto se descuelga del acuerdo, va a acoger a los viajeros comunitarios, pero se blinda al resto.",0,0
- The Spanish monarchy is not giving a very decent spectacle in the eyes of our European neighbours.,0,1
+ The Spanish monarchy is not giving a very decent spectacle in the eyes of our European neighbours.,0,0
  Lo que no significa que no haya que ajustarse a circunstancias excepcionales que puedan emerger en la evolución de la pandemia y con la presencialidad como concepto general.,0,0
 " Hola muy buenas tardes, gracias por atendernos.",0,0
 " Et au Pays basque, nous avons une santé publique gratuite et universelle, et il y a d’autres pays qui ne le font pas.",1,1
@@ -3762,7 +3762,7 @@ Mais j’insiste sur ce que je ressens et nous le voyons tous.,0,0
  Y especialmente yo creo que ha sido muy importante los acuerdos de Bruselas de hace un par de días.,0,0
 " Et c’est ce que le Parti socialiste du Pays basque aspire à donner de la stabilité, à promouvoir l’harmonie et sans aucun doute.",0,0
 " Básicamente consiste consistían en nuestra propuesta programática, en el Impuesto de Sociedades que se tiene que producir una importante revisión de todos los beneficios fiscales que actualmente están en vigor y que tenemos que ver si realmente son útiles o si hay que cambiarlos por otro, que generen más empleo o generen mayor valor añadido.",0,0
-" Il y a quelques semaines, le gouvernement a présenté le projet de ce décret royal qui réglementera le programme de bourses d’études pour l’année prochaine et que les critères académiques pour recevoir l’aide sont réduits, mais le nombre de bénéficiaires est augmenté de 22 pour cent.",1,0
+" Il y a quelques semaines, le gouvernement a présenté le projet de ce décret royal qui réglementera le programme de bourses d’études pour l’année prochaine et que les critères académiques pour recevoir l’aide sont réduits, mais le nombre de bénéficiaires est augmenté de 22 pour cent.",1,1
  Le futur vaccin n’est-il pas un médicament?,0,0
 " España desde el inicio de esta discusión, puso propuestas razonables en la mesa.",0,0
 " Todos sabemos también Holanda, también Austria lo saben, que para ellos y sus economías puedan seguir funcionando.",0,0
@@ -3780,7 +3780,7 @@ Mais j’insiste sur ce que je ressens et nous le voyons tous.,0,0
  Quels budgets ?,0,0
 " Mais ce que je peux vous dire, c’est que ce gouvernement est avec.",0,0
  I think about those masks we're wearing.,0,0
- The legislature is going to last four years.,0,1
+ The legislature is going to last four years.,0,0
  The budget of the Community of Madrid should not be touched to ensure these educational needs.,0,0
  Eso creo que cualquier español lo puede ver claramente.,0,0
  Je pense que c’est un scénario impensable.,0,0
@@ -3873,7 +3873,7 @@ Mais j’insiste sur ce que je ressens et nous le voyons tous.,0,0
 " En estos dos años hemos conseguido gobernar por primera vez en nuestra historia en Andalucía y recuperar las alcaldías de Madrid, Zaragoza, Oviedo Córdoba o Pamplona.",1,1
  The.,0,0
  Il serait inconcevable qu’il nous soutienne.,0,0
-" À l’époque, 80 p. 100 d’entre eux sont déjà en affaires et la protection des entreprises a eu un double effet aujourd’hui, mais surtout et ce n’est pas dit la protection de l’emploi.",1,0
+" À l’époque, 80 p. 100 d’entre eux sont déjà en affaires et la protection des entreprises a eu un double effet aujourd’hui, mais surtout et ce n’est pas dit la protection de l’emploi.",1,1
 " Y esto no tiene que ver con un calendario electoral, tiene que ver evidentemente con una negociación comercial y hay que ser absolutamente firme.",0,0
 " Then, let's talk about VAT, talk about corporation tax on corporate tax and corporate tax deductions, which are chaotic.",0,0
  President Married in this regard has been very clear.,1,0
@@ -4144,7 +4144,7 @@ En el acuerdo alcanzado en ningún caso se aplica condicionalidad macroeconómic
  No lo entiendo.,0,0
  Personne n’est surpris qu’au sein du gouvernement de coalition il y ait une partie de ce gouvernement de coalition qui se déclare plutôt républicain.,0,0
  Mais ils ont changé les attentes de Pedro Sánchez.,0,0
-" C’est le qubit qui n’est pas encore contrôlé par les États-Unis, c’est pourquoi les États-Unis maintiennent leurs frontières fermées avec l’Europe et vice versa.",0,0
+" C’est le qubit qui n’est pas encore contrôlé par les États-Unis, c’est pourquoi les États-Unis maintiennent leurs frontières fermées avec l’Europe et vice versa.",0,1
  Europa no nos obliga a mantener unos determinados índices de déficit o de deuda.,1,1
  It will be Estefan who sees what they can do to reach this agreement but what I can say is that the attitude has been very positive and for this reason I can also say that this meeting has been a fruitful one.,0,0
  There's a man.,0,0
